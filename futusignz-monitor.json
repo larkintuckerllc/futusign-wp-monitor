@@ -1,0 +1,21 @@
+{
+    "name" : "futusign Monitor",
+    "slug" : "futusignz-monitor",
+    "download_url" : "http://futusign-wordpress.s3-website-us-east-1.amazonaws.com/futusignz-monitor-0-2-1.zip",
+    "version" : "0.2.1",
+    "author" : "John Tucker",
+    "sections" : {
+        "description" : "Add futusign Monitors feature",
+        "installation": "Upload and activate the <code>futusignz-monitor</code> plugin via the plugin admin page",
+        "changelog" : "<p><b>0.2.1</b></p><p>Fix for PHP 5.3</p><p><b>0.2.0</b></p><p>No dep. on ACF to REST API</p><p><b>0.1.2</b></p><p>Security upgrade; harden PHP</p><p><b>0.1.1</b></p><p>Patch for add rewrite rules in common</p><p><b>0.1.0</b></p><p>Initial release</p>"
+    },
+    "homepage": "https://www.futusign.com",
+    "requires": "4.3",
+    "tested": "4.9",
+    "author_homepage": "https://github.com/larkintuckerllc",
+    "last_updated": "2018-01-02 00:00:00",
+    "upgrade_notice": "Fix for PHP 5.3",
+    "banners": {
+      "low": "http://futusign-wordpress.s3-website-us-east-1.amazonaws.com/banner-772x250.jpg"
+    }
+}
