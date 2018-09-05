@@ -28,16 +28,16 @@ Unlike other futusign plugins, futusign Monitor also requires the setup of a thi
 2. From Firebase console, use the Add project link to create a project.
 3. From the newly created Firebase project, use the Add Firebase to your web app link to obtain information to be used in next steps.
 4. From the WordPress administrative screens.
-  1. Select menu, Settings > futusign Monitor
-  2. Enter values from step 3 into the Firebase Config section.
-  3. Press the Save Changes button.
+    1. Select menu, Settings > futusign Monitor
+    2. Enter values from step 3 into the Firebase Config section.
+    3. Press the Save Changes button.
 5. From the newly created Firebase project, use the Authentication menu item:
-  1. Select Sign-in Method tab and enable Email/Password provider.
-  2. Select Users tab and create an account (email and password).
+    1. Select Sign-in Method tab and enable Email/Password provider.
+    2. Select Users tab and create an account (email and password).
 6. From the WordPress administrative screens.
-  1. Select menu, Settings > futusign Monitor
-  2. Enter email and password from step 5 into the Firebase Credentials section.
-  3. Press the Save Changes button.
+    1. Select menu, Settings > futusign Monitor
+    2. Enter email and password from step 5 into the Firebase Credentials section.
+    3. Press the Save Changes button.
 
 Usage
 ====
